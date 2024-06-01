@@ -1,0 +1,21 @@
+.image {
+  height: 350px;
+}
+.each-slider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  color: white;
+  font-family: 'Roboto';
+}
+.des {
+  color: white;
+  font-family: 'Roboto';
+  text-align: center;
+  width: 400px;
+  font-size: 22px;
+}
